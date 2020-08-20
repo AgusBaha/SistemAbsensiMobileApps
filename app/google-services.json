@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696056636068",
+    "firebase_url": "https://sistemabsensi-9402d.firebaseio.com",
+    "project_id": "sistemabsensi-9402d",
+    "storage_bucket": "sistemabsensi-9402d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696056636068:android:cd8edaec4c166bb58dbc31",
+        "android_client_info": {
+          "package_name": "com.example.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696056636068-dbg4eu57hnrdc1pg2cedsh9sq7pftths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqr5HpC_J5VgT9gY05P-eEuqMBIB1jj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696056636068-dbg4eu57hnrdc1pg2cedsh9sq7pftths.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
